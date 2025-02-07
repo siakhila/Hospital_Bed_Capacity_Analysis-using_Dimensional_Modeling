@@ -15,9 +15,9 @@ This project focuses on analyzing hospital bed capacity across various healthcar
 **Requirements:**  
 - **Tools:** SQL, ERDPlus, MySQL Workbench.
 - **Data Files:**  
-  - `Dimension table business.csv`  
-  - `Dimension table bed_type.csv`  
-  - `Fact table bed_fact.csv`  
+  - `business.csv`  
+  - `bed_type.csv`  
+  - `bed_fact.csv`  
 - **Documentation:**  
   - `Dimensional_Modelling.docx` (Project report)  
   - `Dimensional_Modelling.sql` (SQL script for database creation and queries)
